@@ -129,6 +129,9 @@ table {
 	padding-right: 10px;
 	background-color: rgb(255, 255, 255);
 }
+.search-input:focus {
+	outline:none;
+}
 [src="assets/images/microphone.png"] {
 	height: 20px;
 	width: 14px;
